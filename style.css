@@ -1,0 +1,152 @@
+body{
+    background-color: #f5f2f0;
+    font-family: merriweather, serif;
+    overflow: hidden;
+}
+img.main-image {
+    width: 525px;
+}
+img.logo {
+    position: absolute;
+    width: 100px;
+    top: 30px;
+    left: 30px;
+}
+nav {
+    float: right;
+    position: relative;
+    top: 30px;
+}
+a.nav {
+ 
+    text-decoration: none;
+    color: grey;
+    margin-left: 70px;
+    margin-top: 32px;
+    margin-right: 20px;
+}
+body > nav > a:nth-child(1) {
+    color: black;
+}
+.line {
+    position: absolute;
+    width: 370px;
+    background: black;
+    top: 46px;
+    border-radius: 45px;
+    left: 579px;
+    height: 3px;
+}
+.Creativity {
+    float: right;
+    top: 15px;
+    font-size: xxx-large;
+    position: absolute;
+    float: right;
+    right: 540px;
+}
+p.ingrediant {
+    font-size: xx-large;
+    float: right;
+    color: #959595;
+    position: relative;
+    top: -154px;
+    left: 200px;
+    font-weight: 100;
+}
+.social-holder {
+    width: 10px;
+    float: right;
+    position: absolute;
+    right: 55px;
+    top: 54px;
+}
+.social-holder img {
+    margin-top: 45px;
+}
+button.package {
+    padding: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #333333;
+    color: white;
+    font-size: medium;
+}
+
+
+.promo {
+    float: right;
+    position: absolute;
+    right: 170px;
+    top: 500px;
+}
+
+
+.selector {
+    height: 350px;
+    background: none;
+    width: 100px;
+    float: right;
+    right: 221px;
+    position: relative;
+    top: 387px;
+}
+
+element.style {
+}
+.circle {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 7px;
+    border-radius: 50%;
+    background: #828282;
+}
+.one {
+    width: 30px;
+    height: 30px;
+    background: #333333;
+    left: 2px;
+}
+.circle.two {
+    
+}
+.liner {
+    width: 2px;
+    height: 40px;
+    position: relative;
+    left: 15px;
+    background: #828282;
+}
+.selector-text {
+    height: 350px;
+    background: none;
+    width: 100px;
+    float: right;
+    right: 70px;
+    position: relative;
+    top: 374px;
+    font-size: 12px;
+    font-family: "Poppins", sans-serif;
+    
+    color: #828282;
+}
+h1.text.-one {
+    
+    margin-top: 17px;
+    color: #333333;
+}
+h1.text {
+    width: 175px;
+    font-weight: 100;
+    margin-top: 33px;
+}
+body > div.last-img > img {
+    width: 370px;
+}
+.last-img {
+    float: right;
+    position: relative;
+    top: -150px;
+    left: -150px;
+}
